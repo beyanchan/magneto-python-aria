@@ -60,8 +60,8 @@
       "value": "",
       "required": false
     },
-    "SECRET_JSON": {
-      "description": "Get it by running python3 generate_drive_token.py",
+    "TELEGRAPH_TOKEN ": {
+      "description": "Telegraph Token",
       "value": ""
     },
     "INDEX_URL": {
